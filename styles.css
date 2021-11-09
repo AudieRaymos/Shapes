@@ -27,6 +27,10 @@ body {
   display: block;
 }
 
-.curved-upper{
+.curved-upper svg{
+  display: block;
+}
+
+.curved-upper {
   background: #fff;
 }
