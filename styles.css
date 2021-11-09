@@ -14,9 +14,15 @@ body {
 .curved h1 {
   font-size: 6rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 0;
 }
 
 .curved p {
   font-size: 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 5rem 0 5rem;
+}
+
+.curved svg { 
+  display: block;
 }
