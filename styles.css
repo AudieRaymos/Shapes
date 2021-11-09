@@ -26,3 +26,7 @@ body {
 .curved svg { 
   display: block;
 }
+
+.curved-upper{
+  background: #fff;
+}
